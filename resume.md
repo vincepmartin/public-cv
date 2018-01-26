@@ -62,7 +62,3 @@ Martin, Vincent, Adama Coulaby, Nathan Schaff, Chiu C Tan, and Shan Lin. 2014\. 
 Education
 =========
 * Temple University, Philadelphia, PA - B.S. Electrical Engineering (Bio-Electrical Concentration)
-
-Personal
-========
-I'm so fucking awesome. I can do wicked kick flips on my skateboard. I made it around the headlands loop in like an hour... Whoa... Hey maaaaaaaaaannnnnnn
