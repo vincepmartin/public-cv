@@ -13,22 +13,18 @@ Experience
 ----------
 **Software Engineer**, *FedNat:* July 2015 - Current
 * Designing, maintaining and improving the backend software solutions using Java and Kotlin
-* Creating and improving internal business web applications via feedback from end users using the Google Web Toolkit(GWT)
+* Creating and improving internal web applications via feedback from end users 
 * Improved system uptime for critical processes by creating a process monitoring system
-* Streamlined managing software dependencies by migrating build system from Ant to Gradle
-* Migrated the team's source control system from SVN to Gitlab leading to improved workflow and code reviews
+* Streamlined software dependency management by migrating build system from Ant to Gradle
+* Migrated version control system from SVN to Gitlab leading to improved workflow and code reviews
 
 **Researcher**, *Temple University, Dept of CS:* August 2013 - May 2015
-* Designed the control system for the development and testing of a robotic controllable needle system for surgical applications
-* Created a wearable eye tracking camera and an android application to track physical movement for Temple's Neuroscience department
-* Assisted in the creation of real time video analysis platform utilizing Google Glass, OpenCV and Android for use in experimentation on wearables in law enforcement
-* Benchmarked performance for video processing, battery life and network throughput for Google Glass
+* Designed the control system used in the development of a robotic steerable surgical needle 
+* Created wearable eye tracking camera and an Android app to track physical movement for Temple's Neuroscience department
+* Assisted in the creation of real time video analysis app utilizing Google Glass, OpenCV and Android for use in experimentation on wearables in law enforcement
 * Published results of the lab's research via writing papers and presenting at conferences
+* Benchmarked performance for video processing, battery life and network throughput for Google Glass
 * Assisted students as a teaching assistant for CIS 1057 Computer Programming in C class
-
-**Network Engineer**, *Temple University, Dept of Engineering:* August 2014 - May 2015
-* Installed and configured a network storage system used by the Engineering school
-* Maintained various Linux servers used by the department for FPGA development
 
 **Network Security Analyst and IPV6 Subject Matter Expert**, *ICSA Labs/Verizon Business:* January 2006 - June 2010
 * Tested network protection devices for security violations, worked with vendors to fix violations and published findings on ICSA website
