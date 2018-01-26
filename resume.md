@@ -12,10 +12,10 @@ Technologies
 Experience
 ----------
 **Software Engineer**, *FedNat:* July 2015 - Current
-* Designing and maintaining the backend software solutions for a quickly growing company
-* Created and improved internal business web applications using the Google Web Toolkit(GWT)
-* Improved system uptime for critical business processes by creating a process monitoring system
-* Made software dependencys more managable by migrating build sytem from Ant to Gradle for Java and Kotlin proejcts
+* Designing, maintaining and improving the backend software solutions using Java and Kotlin
+* Creating and improving internal business web applications via feedback from end users using the Google Web Toolkit(GWT)
+* Improved system uptime for critical processes by creating a process monitoring system
+* Streamlined managing software dependencies by migrating build system from Ant to Gradle
 * Migrated the team's source control system from SVN to Gitlab leading to improved workflow and code reviews
 
 **Researcher**, *Temple University, Dept of CS:* August 2013 - May 2015
