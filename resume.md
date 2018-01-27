@@ -1,6 +1,6 @@
 Vincent Martin - Software Engineer 
 ---------------
-vince@finalatomicbuster.net | [github.com/vincepmartin](http://github.com/vincepmartin)
+vince@finalatomicbuster.net | 717.818.0359 | [github.com/vincepmartin](http://github.com/vincepmartin)
 
 Technologies
 ---------------
