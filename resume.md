@@ -5,7 +5,7 @@ vince@finalatomicbuster.net | [github.com/vincepmartin](http://github.com/vincep
 Technologies
 ---------------
 * **Languages**: Java, Kotlin, Javascript, Python, C, AVR Assembly, Verilog
-* **Databases**: SQL, Redis
+* **Databases**: SQL, Redis, CouchDB
 * **Mobile**: ReactJS, Android, iOS via Unity
 * **Networking**: IPv4, IPv6, tcpdump, nmap, wireshark
 
@@ -13,10 +13,10 @@ Experience
 ----------
 **Software Engineer**, *FedNat:* July 2015 - Current
 * Designing and maintaining the backend software solutions for a quickly growing company
-* Created and improved web applications using ReactJS w/ PWA and the Google Web Toolkit(GWT)
+* Created and improved web applications using ReactJS w/ PWA and the Google Web Toolkit
 * Improved system uptime for critical business processes by creating a process monitoring system
-* Made software dependencys more managable by migrating build sytem from Ant to Gradle for Java and Kotlin proejcts
-* Migrated the team's source control system from SVN to Gitlab leading to improved workflow and code reviews
+* Created email backend to communicate policy information to end customers and business stats to management
+* Modernized software processes by updating build systems and moving version control from SVN to Git
 
 **Researcher**, *Temple University, Dept of CS:* August 2013 - May 2015
 * Designed the control system for the development and testing of a robotic controllable needle system for surgical applications
